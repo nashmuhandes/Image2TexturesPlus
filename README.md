@@ -9,7 +9,7 @@ Place Image2TexturesPlus.exe in the same directory as your graphics and simply
 run the application. An "Output.txt" will be generated - just copy and paste
 the output to where it needs to be in your project hierarchy.
 
-- OR -
+-- OR --
 
 Add Image2TexturesPlus.exe into your Windows PATH variable so that you can
 invoke it from any directory.
@@ -20,4 +20,5 @@ the reconstruction to be successful; I have included it in this package!
 Credits:
 
 carlcyber - original "Image2Textures" program which was used as a base.
+<br>
 Nash Muhandes - Image2TexturesPlus variant.
